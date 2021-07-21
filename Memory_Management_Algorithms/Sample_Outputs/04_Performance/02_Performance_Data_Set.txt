@@ -1,0 +1,4 @@
+Total Partititons = 3
+Total Processes = 3
+Partitions = 200KB, 100KB, 50KB
+Processes = 300KB, 100KB, 25KB

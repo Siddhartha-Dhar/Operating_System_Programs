@@ -1,0 +1,4 @@
+Total Partitions = 6
+Total Processes = 5
+Partititons = 100KB, 200KB, 300KB, 50KB, 250KB, 400KB
+Processes = 50KB, 60KB, 70KB, 150KB, 200KB
